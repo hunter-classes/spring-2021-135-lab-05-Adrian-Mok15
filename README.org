@@ -6,7 +6,7 @@
 
 * GitHub username:Adrian-Mok15
 
-* Notes:
+* Notes: I would set up a refractor similar that in the video where the inputs would be the length of the line and char and then call it whenever I need to print out something. For example, in the trapezoid task, the code would be a lot cleaner if I created a refractor to print out the * in a line given the 'i' of the height for loop. 
 
 
 
