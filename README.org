@@ -6,7 +6,7 @@
 
 * GitHub username:Adrian-Mok15
 
-* Notes: I would set up a refractor similar that in the video where the inputs would be the length of the line and char and then call it whenever I need to print out something. For example, in the trapezoid task, the code would be a lot cleaner if I created a refractor to print out the * in a line given the 'i' of the height for loop. 
+* Notes: I would set up a refractor where it would be opening up the the file. For all of the functions we wrote, they all opened up the same file, so it would be a lot cleaner if the refractor took in the file name and just opened the file and named it fin. Depending on if the coder wishes to use declare the other variables that aren't used for that specific function, they could also declare westEl and the other variables that may or may not be used.
 
 
 
